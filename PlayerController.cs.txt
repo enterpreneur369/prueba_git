@@ -1,4 +1,4 @@
 classs nombre {
 
-
+private String surname;
 }
