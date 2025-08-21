@@ -1,4 +1,8 @@
 classs nombre {
   private String name;
   private String surname;
+  
+  void mover() {
+    
+  }
 }
